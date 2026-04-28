@@ -1,0 +1,83 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><style id="xml-viewer-style">/* Copyright 2014 The Chromium Authors
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ */
+
+:root {
+  color-scheme: light dark;
+}
+
+div.header {
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+    margin: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  div.header {
+    border-bottom: 2px solid white;
+  }
+}
+
+div.folder &gt; div.hidden {
+    display:none;
+}
+
+div.folder &gt; span.hidden {
+    display:none;
+}
+
+.pretty-print {
+    margin-top: 1em;
+    margin-left: 20px;
+    font-family: monospace;
+    font-size: 13px;
+}
+
+#webkit-xml-viewer-source-xml {
+    display: none;
+}
+
+.opened {
+    margin-left: 1em;
+}
+
+.comment {
+    white-space: pre;
+}
+
+.folder-button {
+    user-select: none;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: -10px;
+    width: 10px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    vertical-align: bottom;
+}
+
+.fold {
+    background: url("data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' fill='%23909090' width='10' height='10'&gt;&lt;path d='M0 0 L8 0 L4 7 Z'/&gt;&lt;/svg&gt;");
+    height: 10px;
+}
+
+.open {
+    background: url("data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' fill='%23909090' width='10' height='10'&gt;&lt;path d='M0 0 L0 8 L7 4 Z'/&gt;&lt;/svg&gt;");
+    height: 10px;
+}
+</style></head><body><div id="webkit-xml-viewer-source-xml"><oembed xmlns=""><version>1.0</version><provider_name>Melbourne Anarchist Communist Group</provider_name><provider_url>https://melbacg.au</provider_url><author_name>Melbourne Anarchist Communist Group</author_name><author_url>https://melbacg.au/author/melbanarchistcommunistproton-me/</author_url><title>From Charlottesville to Melbourne: Unite to fight the far right</title><type>rich</type><width>600</width><height>338</height>&lt;blockquote class="wp-embedded-content" data-secret="ZoLkH1wPDB"&gt;&lt;a href="https://melbacg.au/from-charlottesville-to-melbourne-unite-to-fight-the-far-right/"&gt;From Charlottesville to Melbourne: Unite to fight the far right&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe sandbox="allow-scripts" security="restricted" src="https://melbacg.au/from-charlottesville-to-melbourne-unite-to-fight-the-far-right/embed/#?secret=ZoLkH1wPDB" width="600" height="338" title="“From Charlottesville to Melbourne: Unite to fight the far right” — Melbourne Anarchist Communist Group" data-secret="ZoLkH1wPDB" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;
+/* &lt;![CDATA[ */
+/*! This file is auto-generated */
+!function(d,l){"use strict";l.querySelector&amp;&amp;d.addEventListener&amp;&amp;"undefined"!=typeof URL&amp;&amp;(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&amp;&amp;!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),o=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]'),c=new RegExp("^https?:$","i"),i=0;i&lt;o.length;i++)o[i].style.display="none";for(i=0;i&lt;a.length;i++)s=a[i],e.source===s.contentWindow&amp;&amp;(s.removeAttribute("style"),"height"===t.message?(1e3&lt;(r=parseInt(t.value,10))?r=1e3:~~r&lt;200&amp;&amp;(r=200),s.height=r):"link"===t.message&amp;&amp;(r=new URL(s.getAttribute("src")),n=new URL(t.value),c.test(n.protocol))&amp;&amp;n.host===r.host&amp;&amp;l.activeElement===s&amp;&amp;(d.top.location.href=t.value))}},d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",function(){for(var e,t,s=l.querySelectorAll("iframe.wp-embedded-content"),r=0;r&lt;s.length;r++)(t=(e=s[r]).getAttribute("data-secret"))||(t=Math.random().toString(36).substring(2,12),e.src+="#?secret="+t,e.setAttribute("data-secret",t)),e.contentWindow.postMessage({message:"ready",secret:t},"*")},!1)))}(window,document);
+//# sourceURL=https://melbacg.au/wp-includes/js/wp-embed.min.js
+/* ]]&gt; */
+&lt;/script&gt;
+<thumbnail_url>https://melbacg.au/wp-content/uploads/2025/09/default-feature-image-752x440.png</thumbnail_url><thumbnail_width>600</thumbnail_width><thumbnail_height>351</thumbnail_height></oembed></div><div class="header"><span>This XML file does not appear to have any style information associated with it. The document tree is shown below.</span><br></div><div class="pretty-print"><div class="folder" id="folder0"><div class="line"><span class="folder-button fold"></span><span class="html-tag">&lt;oembed&gt;</span></div><div class="opened"><div class="line"><span class="html-tag">&lt;version&gt;</span><span>1.0</span><span class="html-tag">&lt;/version&gt;</span></div><div class="line"><span class="html-tag">&lt;provider_name&gt;</span><span>Melbourne Anarchist Communist Group</span><span class="html-tag">&lt;/provider_name&gt;</span></div><div class="line"><span class="html-tag">&lt;provider_url&gt;</span><span>https://melbacg.au</span><span class="html-tag">&lt;/provider_url&gt;</span></div><div class="line"><span class="html-tag">&lt;author_name&gt;</span><span>Melbourne Anarchist Communist Group</span><span class="html-tag">&lt;/author_name&gt;</span></div><div class="line"><span class="html-tag">&lt;author_url&gt;</span><span>https://melbacg.au/author/melbanarchistcommunistproton-me/</span><span class="html-tag">&lt;/author_url&gt;</span></div><div class="line"><span class="html-tag">&lt;title&gt;</span><span>From Charlottesville to Melbourne: Unite to fight the far right</span><span class="html-tag">&lt;/title&gt;</span></div><div class="line"><span class="html-tag">&lt;type&gt;</span><span>rich</span><span class="html-tag">&lt;/type&gt;</span></div><div class="line"><span class="html-tag">&lt;width&gt;</span><span>600</span><span class="html-tag">&lt;/width&gt;</span></div><div class="line"><span class="html-tag">&lt;height&gt;</span><span>338</span><span class="html-tag">&lt;/height&gt;</span></div><div class="line"><span class="html-tag">&lt;html&gt;</span><span>&lt;blockquote class="wp-embedded-content" data-secret="ZoLkH1wPDB"&gt;&lt;a href="https://melbacg.au/from-charlottesville-to-melbourne-unite-to-fight-the-far-right/"&gt;From Charlottesville to Melbourne: Unite to fight the far right&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe sandbox="allow-scripts" security="restricted" src="https://melbacg.au/from-charlottesville-to-melbourne-unite-to-fight-the-far-right/embed/#?secret=ZoLkH1wPDB" width="600" height="338" title="“From Charlottesville to Melbourne: Unite to fight the far right” — Melbourne Anarchist Communist Group" data-secret="ZoLkH1wPDB" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;
+/* &lt;![CDATA[ */
+/*! This file is auto-generated */
+!function(d,l){"use strict";l.querySelector&amp;&amp;d.addEventListener&amp;&amp;"undefined"!=typeof URL&amp;&amp;(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&amp;&amp;!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),o=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]'),c=new RegExp("^https?:$","i"),i=0;i&lt;o.length;i++)o[i].style.display="none";for(i=0;i&lt;a.length;i++)s=a[i],e.source===s.contentWindow&amp;&amp;(s.removeAttribute("style"),"height"===t.message?(1e3&lt;(r=parseInt(t.value,10))?r=1e3:~~r&lt;200&amp;&amp;(r=200),s.height=r):"link"===t.message&amp;&amp;(r=new URL(s.getAttribute("src")),n=new URL(t.value),c.test(n.protocol))&amp;&amp;n.host===r.host&amp;&amp;l.activeElement===s&amp;&amp;(d.top.location.href=t.value))}},d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",function(){for(var e,t,s=l.querySelectorAll("iframe.wp-embedded-content"),r=0;r&lt;s.length;r++)(t=(e=s[r]).getAttribute("data-secret"))||(t=Math.random().toString(36).substring(2,12),e.src+="#?secret="+t,e.setAttribute("data-secret",t)),e.contentWindow.postMessage({message:"ready",secret:t},"*")},!1)))}(window,document);
+//# sourceURL=https://melbacg.au/wp-includes/js/wp-embed.min.js
+/* ]]&gt; */
+&lt;/script&gt;
+</span><span class="html-tag">&lt;/html&gt;</span></div><div class="line"><span class="html-tag">&lt;thumbnail_url&gt;</span><span>https://melbacg.au/wp-content/uploads/2025/09/default-feature-image-752x440.png</span><span class="html-tag">&lt;/thumbnail_url&gt;</span></div><div class="line"><span class="html-tag">&lt;thumbnail_width&gt;</span><span>600</span><span class="html-tag">&lt;/thumbnail_width&gt;</span></div><div class="line"><span class="html-tag">&lt;thumbnail_height&gt;</span><span>351</span><span class="html-tag">&lt;/thumbnail_height&gt;</span></div></div><span class="folded hidden">...</span><div class="line"><span class="html-tag">&lt;/oembed&gt;</span></div></div></div></body></html>
